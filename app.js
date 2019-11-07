@@ -30,7 +30,7 @@ const displayPokemon = pokemon => {
 		.map(
 			poke => `
   <li class="card">
-  <img class="card-image" src="${poke.image}" />
+  <img class="card-image" src="${poke.image}" alt="${poke.name}" />
   <h2 class="card-title">${poke.id}. ${poke.name}</h2>
   <p class="card-subtitle">${poke.type}</p>
   </li>
