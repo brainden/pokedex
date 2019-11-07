@@ -14,7 +14,7 @@ JAVASCRIPT
 
 ### SCREENSHOTS
 
-![HOME PAGE]()
-![END PAGE]()
-![TABLE VIEW]()
-![PHONE VIEW]()
+![HOME PAGE](https://github.com/brainden/pokedex/blob/master/photos/home.png?raw=true)
+![END PAGE](https://github.com/brainden/pokedex/blob/master/photos/end.png?raw=true)
+![TABLE VIEW](https://github.com/brainden/pokedex/blob/master/photos/tablet.png?raw=true)
+![PHONE VIEW](https://github.com/brainden/pokedex/blob/master/photos/phone.png?raw=true)
